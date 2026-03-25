@@ -21,7 +21,7 @@ This is a Home Assistant custom integration based on the [Google Nest integratio
 1. Click on HACS in the Home Assistant sidebar
 2. Select "Integrations"
 3. Click the three dots (...) and select "Custom repositories"
-4. Add the repository URL: `https://github.com/millariel/nest-timed-fan`
+4. Add the repository URL: `https://github.com/mlemilly/nest-timed-fan`
 5. Select "Integration" as the category
 6. Click "Install"
 7. Restart Home Assistant
@@ -64,4 +64,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For issues, questions, or feature requests, please open an issue on the [GitHub repository](https://github.com/millariel/nest-timed-fan/issues).
+For issues, questions, or feature requests, please open an issue on the [GitHub repository](https://github.com/mlemilly/nest-timed-fan/issues).
